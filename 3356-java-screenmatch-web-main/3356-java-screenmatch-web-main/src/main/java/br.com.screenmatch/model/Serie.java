@@ -1,6 +1,5 @@
 package br.com.screenmatch.model;
 
-import br.com.screenmatch.service.ConsultaChatGPT;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
